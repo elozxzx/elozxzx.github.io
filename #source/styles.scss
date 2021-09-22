@@ -1,1 +1,16 @@
 @import '_null';
+
+body {
+    background: rgb(53, 53, 53);
+    color: #eee;
+}
+
+h1 {
+    font-family: monospace;
+    margin: 2.5% 0 0 0;
+    text-align: center;
+    font-size: 30px;
+    span {
+        color: rgb(255, 255, 0);
+    }
+}
